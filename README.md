@@ -8,7 +8,7 @@ O **Playlists** é uma extensão para Google Chrome desenvolvida para quem desej
 
 ## 💡 Ideia resumida
 
-Ela identifica suas playlists do YouTube e baixa um aplicativo (`playlists.exe`) na pasta que você escolher. Ao ser executado, esse aplicativo prepara o ambiente instalando as ferramentas necessárias e baixa automaticamente todos os vídeos das playlists convertidos em MP3 (320 kbps), organizando tudo em pastas separadas com o nome de cada playlist.
+A extensão identifica todas suas playlists do YouTube e baixa um aplicativo (`playlists.exe`) na pasta que você escolher. Ao ser executado, esse aplicativo prepara o ambiente instalando as ferramentas necessárias e baixa automaticamente todos os vídeos das playlists convertidos em MP3 (320 kbps), organizando tudo em pastas separadas com o nome de cada playlist.
 
 ---
 
